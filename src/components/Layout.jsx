@@ -125,7 +125,7 @@ const SidebarContent = ({ toggleLanguage, toggleTheme, language, isDarkMode }) =
             className="w-full h-full object-cover"
           />
         </div>
-        <h2 className="text-xl font-bold">Frontend Developer</h2>
+        <h2 className="text-xl font-bold">Web Developer</h2>
         <div className="text-gray-400 text-sm">@asadmahmudakram</div>
 
         <div className="flex items-center gap-3 mt-2">
