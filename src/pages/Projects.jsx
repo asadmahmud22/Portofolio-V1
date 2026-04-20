@@ -12,13 +12,13 @@ const projects = [
     link: "https://asadmahmudakram.vercel.app",
   },
   {
-    title: "Online Exam Siswa",
+    title: "Website UMKM ",
     description:
-      "Aplikasi Online Exam Siswa adalah sistem ujian berbasis web yang memungkinkan siswa untuk login dan mengikuti ujian secara online dengan aman dan efisien. Dibangun menggunakan HTML, CSS, JavaScript, PHP, dan MySQL, aplikasi ini mendukung proses autentikasi pengguna, manajemen soal, dan penyimpanan hasil ujian.",
-    image: "/projects/online-exam.png",
-    tech: ["html", "css", "js", "php", "mysql", "infinity"],
+      "Website UMKM Kabupaten Klaten",
+    image: "/projects/Website_Magang.png",
+    tech: ["laravel", "js", "php", "mysql"],
     featured: true,
-    link: "https://asadmahmud.42web.io/index.php",
+    link: "",
   },
   {
     title: "Design UI/UX APP Store Shoes",
@@ -35,6 +35,14 @@ const projects = [
     image: "/projects/app-SiDompet.png",
     tech: ["kotlin", "sqlite"],
     link: "#",
+  },
+  {
+    title: "Online Exam Siswa",
+    description:
+      "Aplikasi Online Exam Siswa adalah sistem ujian berbasis web yang memungkinkan siswa untuk login dan mengikuti ujian secara online dengan aman dan efisien. Dibangun menggunakan HTML, CSS, JavaScript, PHP, dan MySQL, aplikasi ini mendukung proses autentikasi pengguna, manajemen soal, dan penyimpanan hasil ujian.",
+    image: "/projects/online-exam.png",
+    tech: ["html", "css", "js", "php", "mysql", "infinity"],
+    link: "https://asadmahmud.42web.io/index.php",
   },
   {
     title: "Website MyLinksPage",
